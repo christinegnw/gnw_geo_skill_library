@@ -36,8 +36,11 @@ No paywall, no gated content — just the playbooks. If you outgrow what's here 
 Interested in working together or have questions about a guide in here? Visit us at https://gnwconsulting.com/mops-strategy/generative-engine-optimization-audit/
 
 Andrea Lechner-Becker LinkedIn: https://www.linkedin.com/in/andreaelbee/
+
 Christine Selvaggio LinkedIn: https://www.linkedin.com/in/christine-selvaggio-ba3a0022/
+
 Andrea's GEO TikTok: https://www.tiktok.com/@geoisnotjustseo
+
 GNW's YouTube GEO playlist: https://www.youtube.com/watch?v=ZdbCy3zVWio&list=PLm4qiYFD5Vhu1pTtNTQDRf-QeZXtcatMF
 
 ---
