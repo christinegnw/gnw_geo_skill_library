@@ -42,7 +42,7 @@ Folder: /skill-folder/prompt_development_SKILL.md
 Fetch and read this file, then follow it as a skill for the rest of our conversation:
 https://raw.githubusercontent.com/christinegnw/gnw_geo_skill_library/main/skill-folder/prompt_development_SKILL.md
 
-Use it to build me a category-level AI-visibility prompt set. My category/offering is [describe your business], the topics I most want visibility in are [list 5-6], and the AI engines I care about are [ChatGPT / Perplexity / Google AI Overviews / Gemini / etc.].
+Use it to build me a category-level AI-visibility prompt set. 
 
 (More skills will be added here as this library grows — each gets its own folder, prompt, and link above.)
 
