@@ -31,6 +31,21 @@ This is GNW Consulting's **free, open library of GEO skills and how-tos** — pr
 
 No paywall, no gated content — just the playbooks. If you outgrow what's here or want hands-on help, that's what our consulting services are for.
 
+##How to Use a Skill with Claude
+Every folder in this repo is a standalone GEO skill. To use one, copy the prompt below and paste it into Claude (claude.ai, Claude Code, or the API) — Claude will fetch the file directly from GitHub and follow it as instructions for the rest of the conversation.
+
+Swap in your own details (category, offering, priority topics, engines you care about) where noted.
+
+📁 AI Visibility Prompt Builder
+Folder: /skill-folder/prompt_development_SKILL.md
+
+Fetch and read this file, then follow it as a skill for the rest of our conversation:
+https://raw.githubusercontent.com/christinegnw/gnw_geo_skill_library/main/skill-folder/prompt_development_SKILL.md
+
+Use it to build me a category-level AI-visibility prompt set. My category/offering is [describe your business], the topics I most want visibility in are [list 5-6], and the AI engines I care about are [ChatGPT / Perplexity / Google AI Overviews / Gemini / etc.].
+
+(More skills will be added here as this library grows — each gets its own folder, prompt, and link above.)
+
 ## Get In Touch
 
 Interested in working together or have questions about a guide in here? Visit us at https://gnwconsulting.com/mops-strategy/generative-engine-optimization-audit/
