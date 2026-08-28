@@ -58,6 +58,8 @@ Andrea's GEO TikTok: https://www.tiktok.com/@geoisnotjustseo
 
 GNW's YouTube GEO playlist: https://www.youtube.com/watch?v=ZdbCy3zVWio&list=PLm4qiYFD5Vhu1pTtNTQDRf-QeZXtcatMF
 
----
+## License
+
+Free to use
 
 *Maintained by GNW Consulting
