@@ -1,8 +1,8 @@
-GNW Consulting
+# GNW Consulting
 
-## Generative Engine Optimization (GEO) — helping brands get found, cited, and recommended by AI.**
+## Generative Engine Optimization (GEO) — helping brands get found, cited, and recommended by AI.
 
-As search shifts from ten blue links to AI-generated answers, being visible in Google isn't enough. GNW Consulting helps businesses show up inside the answers given by ChatGPT, Perplexity, Google AI Overviews, Claude, and other generative engines — not just rank for keywords, but get *cited, quoted, and recommended*.
+As search shifts from ten blue links to AI-generated answers, being visible in Google isn't enough. GNW Consulting helps businesses show up inside the answers given by ChatGPT, Perplexity, Google AI Overviews, Claude, and other generative engines — not just rank for keywords, but get cited, quoted, and recommended.
 
 ## What is GEO?
 
@@ -31,12 +31,12 @@ This is GNW Consulting's **free, open library of GEO skills and how-tos** — pr
 
 No paywall, no gated content — just the playbooks. If you outgrow what's here or want hands-on help, that's what our consulting services are for.
 
-##How to Use a Skill with Claude
+## How to Use a Skill with Claude
 Every folder in this repo is a standalone GEO skill. To use one, copy the prompt below and paste it into Claude (claude.ai, Claude Code, or the API) — Claude will fetch the file directly from GitHub and follow it as instructions for the rest of the conversation.
 
 Swap in your own details (category, offering, priority topics, engines you care about) where noted.
 
-📁 AI Visibility Prompt Builder
+### 📁 AI Visibility Prompt Builder
 Folder: /skill-folder/prompt_development_SKILL.md
 
 Fetch and read this file, then follow it as a skill for the rest of our conversation:
